@@ -1,0 +1,120 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 1000px;
+    height: 1000px;
+    background-color: black;
+    margin: auto; /*siempre que tenga medidas el body, se pñone margin auto y se centra*/
+}
+
+nav{
+    width: 1000px;
+    height: 100px;
+    background-color: pink;
+    float: left;
+}
+
+.caja1{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.caja2{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
+.caja3{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    float: left;
+}
+.caja4{
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+    float: left;
+}
+.caja5{
+    width: 200px;
+    height: 100px;
+    background-color: chartreuse;
+    float: left;
+}
+
+header{
+    width: 1000px;
+    height: 300px;
+    background-color: hotpink;
+    float: left;
+}
+
+.banner{
+    width: 800px;
+    height: 300px;
+    float: left;
+    background-color: darkblue;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: darkseagreen;
+}
+
+.login{
+    width: 200px;
+    height: 100px;
+    background-color: gold;
+    display: block;
+    float: left;
+}
+
+.form{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: greenyellow;
+}
+
+main{
+    width: 1000px;
+    float: left;
+    background-color: deepskyblue;
+}
+
+.left{
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: indigo;
+}
+
+article{
+    width: 500px;
+    height: 500px;
+    float: left;
+    background-color: grey;
+}
+
+.right{
+    width: 300px;
+    height: 500px;
+    float: left;
+
+    background-color: cyan;
+}
+
+.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: wheat;
+}
