@@ -8,7 +8,7 @@ body{
     width: 1000px;
     height: 1000px;
     background-color: black;
-    margin: auto; /*siempre que tenga medidas el body, se pñone margin auto y se centra*/
+    margin: auto; /*siempre que tenga medidas el body, se pone margin auto y se centra*/
 }
 
 nav{
